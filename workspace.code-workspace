@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "StudentEventManagerBackend",
+			"path": "."
+		},
+		{
+			"name": "app",
+			"path": "../experiment copy/app"
+		},
+		{
+			"name": "node_modules",
+			"path": "../experiment copy/node_modules"
+		}
+	],
+	"settings": {}
+}
